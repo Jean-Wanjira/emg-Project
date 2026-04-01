@@ -48,7 +48,7 @@ reliably trigger movement required significant work on the
 filtering pipeline. Solving this was what made real-time 
 response possible.
 
-![Raw EMG Signals](assets/thumbnail.jpg)
+![Raw EMG Signals](assets/Raw_EMG_Signal.png)
 
 ## Results
 Successfully built a working prototype that translates a 
