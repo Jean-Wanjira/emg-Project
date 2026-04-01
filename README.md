@@ -55,7 +55,7 @@ Successfully built a working prototype that translates a
 forearm flex into mechanical elbow movement in real time. 
 Shared at ISACT 2024 Conference in Naples 
 
-[![Watch the demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=pCokPV2rDDMk)
+[![Watch the demo](assets/Thumbnail.png)](https://www.youtube.com/watch?v=pCokPV2rDDMk)
 
 
 ## What I Learned
