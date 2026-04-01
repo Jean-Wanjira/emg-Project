@@ -1,5 +1,6 @@
 # sEMG-Controlled Robotic Arm Prototype
 
+
 A robotic arm prototype controlled by surface electromyographic 
 (sEMG) signals, built during a research attachment at the Centre 
 for Robotics and Biomedical Engineering, Dedan Kimathi University 
@@ -47,11 +48,14 @@ reliably trigger movement required significant work on the
 filtering pipeline. Solving this was what made real-time 
 response possible.
 
-## Results
+![Raw EMG Signals](assets/thumbnail.jpg)
 
+## Results
 Successfully built a working prototype that translates a 
 forearm flex into mechanical elbow movement in real time. 
 Shared at ISACT 2024 Conference in Naples 
+
+[![Watch the demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=pCokPV2rDDMk)
 
 
 ## What I Learned
